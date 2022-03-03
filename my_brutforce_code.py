@@ -54,6 +54,8 @@ def connect(name, SSID):
     #print("AfterY")
     #print(y)
 
+print("TURN OFF INTERNET CONNECTION BEFORE STARTING")
+print("Code By Youtube/AdhilTech")
 wifiname=str(input("Enter the Wifi Name (Exact Name): "))
 known_data=str(input("Enter the Wifi Password as you know (KnownData): "))
 bf_length=int(input("Enter Brute For Attack Length: "))
